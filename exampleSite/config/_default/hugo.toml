@@ -1,5 +1,7 @@
 baseURL = 'https://genway.com.cn/'
 
+theme = 'hugo-theme-jasmine'
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
