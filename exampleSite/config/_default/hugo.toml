@@ -1,4 +1,4 @@
-baseURL = 'https://genway.com.cn/'
+baseURL = 'https://jasmine.genway.com.cn/'
 
 theme = 'hugo-theme-jasmine'
 
