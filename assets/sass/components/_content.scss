@@ -20,3 +20,11 @@
         margin: 2rem auto;
     }
 }
+
+@media (min-width: $sm) {
+    .content {
+        .content-inner {
+            padding: 0 1rem;
+        }
+    }
+}
