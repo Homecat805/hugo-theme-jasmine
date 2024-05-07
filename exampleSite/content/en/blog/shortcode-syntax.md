@@ -2,10 +2,10 @@
 title = "Shortcode Syntax - Figure"
 date = 2023-01-10T18:54:33+08:00
 draft = false
-author = 'Homecat'
-categories = 'Frontend'
+author = "Homecat"
+categories = "Hugo Theme"
 tags = ["Hugo","Walden"]
-series = ''
+series = ""
 +++
 
 In hugo theme Walden, the application of shortcodes enrich the presentation of content and is constantly maintained and updated.

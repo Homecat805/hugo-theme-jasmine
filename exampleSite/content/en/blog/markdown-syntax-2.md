@@ -2,10 +2,10 @@
 title = "Markdown Syntax - Table, Footnotes, Links and Lists"
 date = 2023-07-20T05:16:53Z
 draft = false
-author = 'Homecat'
-categories = 'Frontend'
+author = "Homecat"
+categories = "Hugo Theme"
 tags = ["Hugo","Walden"]
-series = ''
+series = ""
 +++
 
 This post showcases the manifestations of the markdown grammar related to table, footnotes, links and lists in this hugo theme.

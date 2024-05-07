@@ -2,10 +2,10 @@
 title = "Markdown Syntax - Code, Code Blocks and Image"
 date = 2023-07-20T05:16:58Z
 draft = false
-author = 'Homecat'
-categories = 'Frontend'
+author = "Homecat"
+categories = "Hugo Theme"
 tags = ["Hugo","Walden"]
-series = ''
+series = ""
 +++
 
 This post showcases the manifestations of the markdown grammar related to code, code blocks and image in this hugo theme.
