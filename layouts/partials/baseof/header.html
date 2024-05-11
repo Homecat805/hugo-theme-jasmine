@@ -29,7 +29,7 @@
         {{- $p := .Site.Language.LanguageName -}}
         {{ range $.Site.Home.AllTranslations }}
             {{- if ne .Language.LanguageName $p }}
-            <a class="lang" href="{{ .Permalink }}"><i class="bi bi-translate"></i>{{.Site.Language.LanguageName}}</a>
+            <a class="lang" href="{{ .RelPermalink }}"><i class="bi bi-translate"></i>{{.Site.Language.LanguageName}}</a>
             {{ end }}
         {{ end }}
     {{ end }}
